@@ -300,9 +300,9 @@ margin-left: 5vw;
     font-family: var(--second-font);
     font-weight: 600;
     color: gray;
-}
+}                               
 .section-six #itme{
-    padding: 0vw 10vw;
+    padding: 0vw 15vw;
     display: grid;
     grid-template-columns:1fr 1fr 1fr;
     grid-gap: 2em;
