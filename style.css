@@ -269,7 +269,7 @@ display: flex;
     /* right: -90px; */
     right: -6.5vw;
     z-index: 100;
-    bottom: 13vw;
+    top: -433px;
 }
 .img3{
     position: absolute;
