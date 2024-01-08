@@ -253,7 +253,7 @@ display: flex;
     padding: 10vw;
 }
 .images{
-    position: relative;
+  position: relative;
   background: blue;
   margin-top: 20vw;
 }
@@ -265,7 +265,8 @@ display: flex;
 }
 .img2{
     position: absolute;
-    right: -90px;
+    /* right: -90px; */
+    right: -6vw;
     z-index: 100;
     bottom: 0;
 }
@@ -300,9 +301,10 @@ margin-left: 5vw;
     font-family: var(--second-font);
     font-weight: 600;
     color: gray;
-}                               
+}      
+                        
 .section-six #itme{
-    padding: 0vw 15vw;
+    padding: 5vw 15vw;
     display: grid;
     grid-template-columns:1fr 1fr 1fr;
     grid-gap: 2em;
